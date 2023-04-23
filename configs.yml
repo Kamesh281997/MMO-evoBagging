@@ -1,0 +1,42 @@
+pima:  
+    n_bags: 12
+    n_iter: 20 
+    n_new_bags: 4
+    n_mutation: 2
+    mutation_rate: 0.05
+    size_coef: 5000
+    clf_coef: 10000
+
+heart_cleveland:  
+    n_bags: 18
+    n_iter: 45
+    n_new_bags: 2 
+    n_mutation: 1
+    mutation_rate: 0.08 
+    size_coef: 15000
+    clf_coef: 10000
+thyroid:  
+    n_bags: 15
+    n_iter: 25
+    n_new_bags: 5
+    n_mutation: 1
+    mutation_rate: 0.05 
+    size_coef: 15000
+    clf_coef: 10000
+dermatalogy:  
+    n_bags: 15
+    n_iter: 15
+    n_new_bags: 3 
+    n_mutation: 3
+    mutation_rate: 0.05 
+    size_coef: 5000
+    clf_coef: 5000
+hepatitis:  
+    n_bags: 9
+    n_iter: 20
+    n_new_bags: 1
+    n_mutation: 2
+    mutation_rate: 0.05 
+    size_coef: 5000
+    clf_coef: 3000
+
